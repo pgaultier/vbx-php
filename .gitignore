@@ -1,0 +1,8 @@
+## Editors - OS
+.idea
+.DS_Store
+Thumbs.db
+*.iml
+vendor
+## Force files to keep
+!.gitkeep
